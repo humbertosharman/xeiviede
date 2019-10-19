@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohshooweiv.aaronmaybus.com/sitemap.xml
